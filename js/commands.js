@@ -1,10 +1,5 @@
-var mint = "https://www.helahi.com/";
-var youtube = "https://www.youtube.com/";
-var twitter = "https://www.twitter.com/";
-var password = "fkcodes";
-var linkedin = "https://www.linkedin.com/";
-var instagram = "https://www.instagram.com/";
-var github = "https://github.com/";
+var mint = "https://dccmint.netlify.app/";
+var youtubeee = "https://www.youtube.com/";
 var email = 'mailto:goutampaik752@gmail.com';
 
 ddcroadmapphase1 = [
@@ -52,23 +47,18 @@ ddcgame = [
 ];
 ddcpublicsale = [
     "<br>",
-    "botton to mint",
+    "go to mint",
     "<br>"
 ];
 ddcprivatesale = [
     "<br>",
-    "button to mint for whitelist",
+    "go to mint for whitelist",
     "<br>"
 ];
 
-
 social = [
     "<br>",
-    'youtube        <a href="' + youtube + '" target="_blank">youtube/dunnky' + "</a>",
-    'twitter        <a href="' + twitter + '" target="_blank">twitter/dunnky' + '</a>',
-    'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/dunnky' + "</a>",
-    'instagram      <a href="' + instagram + '" target="_blank">instagram/dunnky' + '</a>',
-    'github         <a href="' + github + '" target="_blank">github/dunnky' + "</a>",
+    'twitter        <a href="' + youtubeee + '" target="_blank">twitter/ddc' + "</a>",
     "<br>"
 ];
 
@@ -88,30 +78,33 @@ help = [
     '<span class="command">ddcgame</span>',
     '<span class="command">ddcpublicsale</span>',
     '<span class="command">ddcprivatesale</span>',
-    '<span class="command">mint</span>',
-    '<span class="command">social</span>',
     '<span class="command">help</span>',
-    '<span class="command">email</span>',
     '<span class="command">clear</span>',
-    '<span class="command">banner</span>',
     "<br>",
 ];
 
 banner = [
     '<span class="index"></span>',
+"=*+=:.                                                                        .:----:",
+"*@@@@@@%#*+=-:                                                           -+#%@@@@@@@@@=",
+"*@@@@@@@@@@@@@@@#+-:                                                 :+%@@@@@@@@@@@@@+",
+"*@@@@@@@@@@@@@@@@@@@@#=.        -**++++++======--::.              .+%@@@@@@@@@@@@@@@-",
+"*@@@@@@@@@@@@@@@@@@@@@@@#:      *@@@@@@@@@@@@@@*++==++*=.       .*@@@@@@@@@@@@@@@@*",
+"*@@@@@@@@@@%=+#@@@@@@@@@@@*     *@@@#+=+=+==*-+#@@@@@%*=**     -@@@@@@@@@@@=:  .=-",
+"*@@@@@@@@@@%   :@@@@@@@@@@@*    #@+-*@%@@@@@#@@@@@#%@@@@#=@   =@@@@@@@@@@#",
+"*@@@@@@@@@@%    :@@@@@@@@@@@:   %=*@@= -#@@@@@@@%  .*@@@@##=  @@@@@@@@@@@:",
+"+@@@@@@@@@@%     @@@@@@@@@@@-   %=@@@%+*@@@@@@@@%   :@@@@#=+ :@@@@@@@@@@@.",
+"+@@@@@@@@@@#    .@@@@@@@@@@@.   @=@#===+++=#@@@@@@%@@@@@@-%:  @@@@@@@@@@@=",
+"*@@@@@@@@@@#   .%@@@@@@@@@@+    @#-*@@@@@@@#=%@@@@@@@@@#:#=   -@@@@@@@@@@@*:   .=:",
+"*@@@@@@@@@@%-=#@@@@@@@@@@@=    .@@@@@@@@@@@@@*+=+*#*+====.     :#@@@@@@@@@@@@@@@@@*.",
+"+@@@@@@@@@@@@@@@@@@@@@@%=.     :@@@@@@@@@@@%%%##*==--:           :+@@@@@@@@@@@@@@@@@=",
+"=@@@@@@@@@@@@@@@@@@@#=.        .-:..                                :=#@@@@@@@@@@@@@@%:",
+"=@@@@@@@@@@@@@%#+-:                                                     .-=*#@@@@@@@@#=",
+"=@@@@@%#*+-:.                                                                   ... ",
+":+=-.",
 
-    " .----------------.  .----------------.  .-----------------. .-----------------. .----------------.  .----------------. ",
-    "| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |",
-    "| |  ________    | || | _____  _____ | || | ____  _____  | || | ____  _____  | || |  ___  ____   | || |  ____  ____  | |",
-    "| | |_   ___ `.  | || ||_   _||_   _|| || ||_   \|_   _| | || ||_   \|_   _| | || | |_  ||_  _|  | || | |_  _||_  _| | |",
-    "| |   | |   `. / | || |  | |    | |  | || |  |   \ | |   | || |  |   \ | |   | || |   | |_/ /    | || |   \ \  / /   | |",
-    "| |   | |    | | | || |  | '    ' |  | || |  | |\ \| |   | || |  | |\ \| |   | || |   |  __'.    | || |    \ \/ /    | |",
-    "| |  _| |___.' / | || |   \ `--' /   | || | _| |_\   |_  | || | _| |_\   |_  | || |  _| |  \ \_  | || |    _|  |_    | |",
-    "| | |________.'  | || |    `.__.'    | || ||_____|\____| | || ||_____|\____| | || | |____||____| | || |   |______|   | |",
-    "| |              | || |              | || |              | || |              | || |              | || |              | |",
-    "| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |",
-    " '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'",
 
-    '<span class="color2">Welcome to our Dunnky NFTs Collection.</span>',
+
+    '<span class="color2">Welcome to the Dangerous Donkey Club.</span>',
     "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];

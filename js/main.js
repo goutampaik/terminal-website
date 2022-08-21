@@ -55,7 +55,7 @@ function enterKey(e) {
         if (e.keyCode == 13) {
             commands.push(command.innerHTML);
             git = commands.length;
-            addLine("goutam@dunnky.com:~$ " + command.innerHTML, "no-animation", 0);
+            addLine("DDC:~$" + command.innerHTML, "no-animation", 0);
             commander(command.innerHTML.toLowerCase());
             command.innerHTML = "";
             textarea.value = "";
@@ -82,7 +82,7 @@ function commander(cmd) {
         case "help":
             loopLines(help, "color2 margin", 80);
             break;
-        
+
         case "ddcroadmapphase1":
             loopLines(ddcroadmapphase1, "color2 margin", 80);
             break;
@@ -104,10 +104,12 @@ function commander(cmd) {
         case "ddcprivatesale":
             loopLines(ddcprivatesale, "color2 margin", 80);
             break;
+
+
         case "sudo":
             addLine("Oh no, you're not admin...", "color2", 80);
             setTimeout(function () {
-                window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+                window.open('https://www.youtube.com/');
             }, 1000);
             break;
         case "social":
@@ -135,30 +137,15 @@ function commander(cmd) {
         case "banner":
             loopLines(banner, "", 80);
             break;
-        // socials
-        case "youtube":
-            addLine("Opening YouTube...", "color2", 80);
-            newTab(youtube);
-            break;
+
         case "mint":
             addLine("Opening Minting Page...", "color2", 80);
             newTab(mint);
             break;
-        case "twitter":
-            addLine("Opening Twitter...", "color2", 0);
-            newTab(twitter);
-            break;
-        case "linkedin":
-            addLine("Opening LinkedIn...", "color2", 0);
-            newTab(linkedin);
-            break;
-        case "instagram":
-            addLine("Opening Instagram...", "color2", 0);
-            newTab(instagram);
-            break;
-        case "github":
-            addLine("Opening GitHub...", "color2", 0);
-            newTab(github);
+        // socials
+        case "youtubeee":
+            addLine("Opening YouTube...", "color2", 80);
+            newTab(youtubeee);
             break;
         default:
             addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);

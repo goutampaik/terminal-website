@@ -70,7 +70,7 @@ b {
 
 #liner::before {
     color: #37ff05;
-    content: "goutam@dunnky.com:~$";
+    content: "DDC:~$";
 }
 
 #liner.password::before {
