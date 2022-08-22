@@ -4,14 +4,15 @@ var email = 'mailto:goutampaik752@gmail.com';
 
 ddcroadmapphase1 = [
     "<br>",
-    "Dangerous Donkeys will escape onto the blockchain, beware we estimate 5,555 will cause ",
-    "havoc. Once you get your Donkey you will be apart of the community where you will see the",
-    "P2E in phase 3.",
+    "Dangerous Donkeys will escape onto the blockchain, beware we estimate ",
+    "5,555 will cause havoc. Once you get your Donkey you will be apart ",
+    "of the community where you will see the P2E in phase 3.",
     "<br>"
 ];
 ddcroadmapphase2 = [
     "<br>",
-    "More animals are coming but wait… So will the hunters. Here you will see the P2E beta!",
+    "More animals are coming but wait… So will the hunters.",
+    "Here you will see the P2E beta!",
     "<br>"
 ];
 ddcroadmapphase3 = [
